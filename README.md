@@ -1,3 +1,4 @@
+Dustin Jackson, Emmanuel Ramirez, Hector Lopez, Fadi Yousif
 ##Hello_Jenkins
 This simple exercise is designed to introduce you to Jenkins and continuous
 integration. This will be done in teams of 5 but we will all be working on one
